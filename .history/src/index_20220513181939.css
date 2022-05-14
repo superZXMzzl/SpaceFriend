@@ -4,8 +4,6 @@
 @import url(./styles/Footer.css);
 @import url(./styles/Main.css);
 @import url(./styles/SatSetting.css);
-@import url(./styles/SatList.css);
-@import url(./styles/WorldMap.css);
 
 body {
   margin: 0;
